@@ -1,0 +1,52 @@
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.7174887561704963
+  lightness: 0.3821178504731506
+  saturation: 0.6514290338382125
+  rhythmicContrast: 0.35598144796676934
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Max Trade
+layout_spectrum: 0.4780594469048083
+typography_spectrum: 0.5606674789451063
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/556c3732-5c0f-40f5-a9e1-0d0ace3a16c3.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/556c3732-5c0f-40f5-a9e1-0d0ace3a16c3.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: MAXTRADE beer wholesale
+description: ''
+github: true
+url: 'http://maxtrade.us'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0f72aa5-c1da-486e-81c2-ba6e92dfac7f.jpg
